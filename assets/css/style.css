@@ -1,0 +1,85 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+}
+
+#gameBoard {
+    margin: auto;
+    margin-top: 50px; 
+    height: 500px;
+    width: 650px;
+    background-color: rgba(255, 228, 196, 0.767);
+}
+
+#countBoard {
+    margin: auto;
+    margin-top: 15px; 
+    height: 50px;
+    width: 650px;
+    background-color: rgba(208, 255, 196, 0.767);
+}
+
+#timer {
+    font-family: 'Bangers', cursive;
+    float: left;
+    margin: auto;
+    height: 50px;
+    font-size: 24pt;
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+#score {
+    font-family: 'Bangers', cursive;
+    margin: auto;
+    height: 50px;
+    font-size: 24pt;
+    padding-top: 5px;
+    padding-left: 380px;
+}
+
+#questBoard {
+    font-family: 'Bangers', cursive;
+    font-size: 14pt;
+    margin: auto;
+    margin-top: 50px; 
+    height: 250px;
+    width: 550px;
+    background-color: rgba(255, 196, 199, 0.767);
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#fontName {
+    font-family: 'Bangers', cursive;
+    opacity: 0.9;
+    font-size: 34pt;
+    color: rgb(255, 255, 0);
+    text-align: center;
+    padding-top: 10px;
+}
+
+#q {
+    margin-top: 0px; 
+}
+
+#q1 {
+    margin-left: 15px;
+    margin-top: 10px; 
+}
+
+#q2 {
+    margin-left: 15px;
+    margin-top: 5px; 
+}
+
+#q3 {
+    margin-left: 15px;
+    margin-top: 5px; 
+}
+
+#q4 {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
